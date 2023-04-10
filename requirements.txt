@@ -7,7 +7,7 @@ jupyterlab~=3.5.1
 #jupyterlite==0.1.0b14
 
 # Python kernel (optional)
-#jupyterlite-pyodide-kernel==0.0.6
+jupyterlite-pyodide-kernel>=0.21.0
 
 # JavaScript kernel (optional)
 jupyterlite-javascript-kernel==0.1.0b21
